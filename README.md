@@ -1,11 +1,13 @@
-### Guten Tag.
-I'm a nerd who likes programming and crap.  
-Call me nickslate.
-This is where most of my random programming projects live.
+### Guten Tag.  
+I'm a person who exists.  Call me nickslate.
+I make bad ideas into worse realities.  This is where many of those bad ideas (and their manifestations) live.
 
-Any time things appear to be going better, you have overlooked something. (Shirley Chisholm)
+Random Quotes (or whatever):
 
-If at first you do succeed, try not to look astonished.  (Murphy)
+Murphy's Eighth Law: If everything seems to be going well, you have obviously overlooked something.
+
+Another Murphy's Law: If at first you do succeed, try not to look astonished.
+
 
 Want to contact me?  It had better be good. nickslate@icloud.com
 
